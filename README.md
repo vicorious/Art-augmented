@@ -16,7 +16,7 @@ Encargado de renderizar imagenes parametrizadas en el mundo exterior por medio d
 
   * Instalamos sea via Emulador [GUIA INSTALAR EMULADOR](https://developer.android.com/studio/run/emulator?hl=es-419) o via dispositivo [GUIA INSTALAR DISPOSITIVO](https://developer.android.com/studio/run/device?hl=es-419).
   
-_**NOTA**_ : **Para inastalar en el emulador, es necesario leer sobre SCENEFORM [SCENE_FORM] (https://developers.google.com/ar/develop/java/sceneform/)
+_**NOTA**_ : **Para instalar en el emulador, es necesario leer sobre SCENEFORM** [SCENE_FORM](https://developers.google.com/ar/develop/java/sceneform/)
 
 ## DISFRUTA
 
